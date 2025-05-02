@@ -18,7 +18,7 @@ from ctypes import *
 import asyncio
 import discord
 from discord import utils
-token = ''
+token = 'MTM2Nzc3NjQzOTU1Nzk0NzQ3Mg.GXYa-t.dcjRKoBtvcOS83YZLTyHC57kyy1QNcovni2qP8'
 global isexe
 isexe=False
 if (sys.argv[0].endswith("exe")):
